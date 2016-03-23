@@ -1,4 +1,4 @@
-package Multiples3and5Sum
+package Multiples3and5Sum;
 
 public class multiples3and5Sum {
 	public static void main(String[] args)	{
