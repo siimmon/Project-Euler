@@ -1,7 +1,7 @@
 package AmicableNumbers;
 
 /**
- * Created by u120987 on 09/03/2016.
+ * Created by u120987 on 09/03/2016. yoyo testtest
  */
 public class AmicableNumbers {
     public static void main(String[] args) {
