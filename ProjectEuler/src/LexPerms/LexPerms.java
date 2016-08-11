@@ -13,7 +13,7 @@ class LexPerms {
         while (in > 0) {
             if (in%fac < 10) {
                 ret = in%fac+ret;
-            } else {
+            }/* else {
                 if (in%fac == 10) {
                     ret = 'A'+ret;
                 }
@@ -23,7 +23,7 @@ class LexPerms {
                 if (in%fac == 12) {
                     ret = 'C'+ret;
                 }
-            }
+            }*/
 
             in = in/fac;
             fac++;
